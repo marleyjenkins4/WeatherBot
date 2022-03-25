@@ -15,7 +15,6 @@ logger.add(new logger.transports.Console, {
 
 
 var bot = new Discord.Client({
-    token: "Nzc4NDcwNDU5MzI2MzMyOTM5.X7SdHA.sjsDAz3veRTpaBOxILd_IPJxJe8",
     autorun: true
 });
 
