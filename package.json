@@ -1,0 +1,22 @@
+{
+  "name": "weatherbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "json-server-auth": "^2.0.2",
+    "node-schedule": "^1.3.2",
+    "pm2": "^4.5.0",
+    "requests": "^0.3.0",
+    "weather-gov-api": "^1.0.6",
+    "winston": "^3.3.3"
+  }
+}
