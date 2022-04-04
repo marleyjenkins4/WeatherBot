@@ -19,20 +19,12 @@ var bot = new Discord.Client({
 });
 
 
-
-
-
-
-
-
 bot.on('ready', function (evt) {
     logger.info('Connected');
     logger.info('Logged in as: ');
     logger.info(bot.username + ' - (' + bot.id + ')');
  
 });
-
-
 
 //const schedule = require('node-schedule');
 
@@ -71,10 +63,6 @@ bot.on('message', function (user, userID, channelID, message, evt) {
      }
 });
 */
-
-
-
-
 
 
 bot.on('message', (user, userID, channelID, message, evt) => {
@@ -212,8 +200,6 @@ bot.on('message', (user, userID, channelID, message, evt) => {
 
     })
     .catch(err => console.log(err))  
-
-
 
 
 /*schedule.scheduleJob('* * * * * *', function(){  
