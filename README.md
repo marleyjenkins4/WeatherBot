@@ -4,7 +4,7 @@ Individual Project created December 24th 2020
 
 
 
-<p>Created Using
+<p>
 Individual Project created December 24th 2020 <p>
 
 <ul>
