@@ -29,4 +29,5 @@ Individual Project created December 24th 2020 <p>
 
 
 ![Screen Shot 2022-10-07 at 7 01 37 PM](https://user-images.githubusercontent.com/59966636/194673509-56a6434b-4f69-4134-b6fb-0edc452ef12d.png)
+![Screen Shot 2022-10-07 at 7 02 37 PM](https://user-images.githubusercontent.com/59966636/194673548-f0b8603a-8ac7-44f9-b759-93293a9a319b.png)
 
