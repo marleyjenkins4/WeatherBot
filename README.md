@@ -27,9 +27,5 @@ Individual Project created December 24th 2020 <p>
 
 <p>I created a discord bot that finds out the weather forecast in Rock Hill, South Carolina. This was inspired by an assigment I worked on in my Javascript course during my time at Winthrop. A user can ask the bot the weather for tonight, tomorrow and today. Once asked, the bot will give full description of what the forecast will look like. </p>
 
-![Screen Shot 2022-10-07 at 7 02 31 PM](https://user-images.githubusercontent.com/59966636/197907191-c814ebc9-2df3-4336-9c05-57289455bd41.png)
-
-![Screen Shot 2022-10-07 at 7 02 31 PM](https://user-images.githubusercontent.com/59966636/197907225-feea5f0e-ca45-452b-9212-5d51811a33b2.png)
-
-
+![Screen Shot 2022-10-07 at 7 01 37 PM](https://user-images.githubusercontent.com/59966636/197907289-5b486ca1-1181-4f81-a88b-1d5eb96831b8.png)
 
