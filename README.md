@@ -25,7 +25,7 @@ Individual Project created December 24th 2020 <p>
 <li> /Weathertomorrow</li>
 </ul>
 
-<p>I created a discord but that allows a user to ask about the weather in Rock Hill SC. </p>
+<p>I created a discord bot that finds out the weather in Rock Hill South Carolina. This was inspired by an assigment I worked on in my Javascript course during my time at Winthrop. A user can ask the bot the weather for tonight, tomorrow and today. Once asked, the bot will give full description of what the forecast will look like. </p>
 
 
 ![Screen Shot 2022-10-07 at 7 01 37 PM](https://user-images.githubusercontent.com/59966636/194673509-56a6434b-4f69-4134-b6fb-0edc452ef12d.png)
